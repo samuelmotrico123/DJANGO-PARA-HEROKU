@@ -1,1 +1,1 @@
-web: gunicorn catalogo myproject.wsgi
+web: gunicorn novoapp myproject.wsgi
